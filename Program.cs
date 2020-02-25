@@ -7,13 +7,13 @@ namespace firstprog
         static void Main(string[] args)
         {
             Console.WriteLine("Whats your firstname");
-            string firstName = Console.ReadLine{};
+            string firstname = Console.ReadLine();
 
             Console.WriteLine("Whats your surname");
-            string firstName = Console.ReadLgit iine{};
+            string surname = Console.ReadLine();
 
-            Console.WriteLine{firstname};
-            Console.WriteLine{surname};
+            Console.WriteLine(firstname);
+            Console.WriteLine(surname);
         }
     }
 }
