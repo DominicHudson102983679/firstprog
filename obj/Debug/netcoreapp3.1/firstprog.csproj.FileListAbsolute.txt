@@ -1,0 +1,11 @@
+C:\Users\102983679\Documents\introlog\firstprog\bin\Debug\netcoreapp3.1\firstprog.exe
+C:\Users\102983679\Documents\introlog\firstprog\bin\Debug\netcoreapp3.1\firstprog.deps.json
+C:\Users\102983679\Documents\introlog\firstprog\bin\Debug\netcoreapp3.1\firstprog.runtimeconfig.json
+C:\Users\102983679\Documents\introlog\firstprog\bin\Debug\netcoreapp3.1\firstprog.runtimeconfig.dev.json
+C:\Users\102983679\Documents\introlog\firstprog\bin\Debug\netcoreapp3.1\firstprog.dll
+C:\Users\102983679\Documents\introlog\firstprog\bin\Debug\netcoreapp3.1\firstprog.pdb
+C:\Users\102983679\Documents\introlog\firstprog\obj\Debug\netcoreapp3.1\firstprog.csprojAssemblyReference.cache
+C:\Users\102983679\Documents\introlog\firstprog\obj\Debug\netcoreapp3.1\firstprog.AssemblyInfoInputs.cache
+C:\Users\102983679\Documents\introlog\firstprog\obj\Debug\netcoreapp3.1\firstprog.AssemblyInfo.cs
+C:\Users\102983679\Documents\introlog\firstprog\obj\Debug\netcoreapp3.1\firstprog.dll
+C:\Users\102983679\Documents\introlog\firstprog\obj\Debug\netcoreapp3.1\firstprog.pdb
